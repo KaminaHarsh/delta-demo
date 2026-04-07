@@ -1,2 +1,2 @@
 # delta-demo
-starting code to practice git hub
+starting code to practice git hub.
